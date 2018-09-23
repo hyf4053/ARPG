@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "16bbb1e6-6f84-46a2-92eb-41775d236f3e",
+            "Value": {
+                "id": "e585aa2e-a95e-4f64-a0f7-cdaacaa0ce1a",
+                "resourcePath": "views\\77ce41d4-7261-4d48-b5bd-1c7b163ea790-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "179b7a75-1a90-433e-87d6-40176dcabad2",
             "Value": {
                 "id": "4443a8d5-389d-4af1-a918-463b6bdb0528",
@@ -140,6 +148,14 @@
                 "id": "167cfd9d-577f-4619-bb6b-9d69ab3d6fc7",
                 "resourcePath": "objects\\o_enemy\\o_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "244623fd-0d0e-4f73-82af-b8667a108850",
+            "Value": {
+                "id": "f20e0b9c-5821-4847-bf39-e646b8b0893a",
+                "resourcePath": "sprites\\s_start_position\\s_start_position.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "4e62f44e-ea85-4fd8-91a9-fe159e8b7b1b",
+            "Value": {
+                "id": "8289d59c-bf6f-46d3-afaa-a0f53ad21bc2",
+                "resourcePath": "rooms\\r_sword\\r_sword.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4f5e0b88-e32a-4af7-8db6-21bfdfb8531f",
             "Value": {
                 "id": "ab0297ce-5909-4d2c-8ef0-cc6040a392fe",
@@ -300,6 +324,22 @@
                 "id": "0720fd61-d4c6-4448-9255-e816e743474f",
                 "resourcePath": "scripts\\porcupine_attack\\porcupine_attack.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6999502d-6ee2-4de7-a37a-db57a663e768",
+            "Value": {
+                "id": "cc105567-1ff6-4c6f-b809-f46fae9ddb1b",
+                "resourcePath": "sprites\\s_door\\s_door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6cc09deb-c84e-447f-9ed6-1c3d17999762",
+            "Value": {
+                "id": "586ec484-134c-4ca0-959c-492cb0bd0827",
+                "resourcePath": "objects\\o_door\\o_door.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -479,6 +519,14 @@
             }
         },
         {
+            "Key": "a43f0b7f-9523-4ae1-a914-828c7317253f",
+            "Value": {
+                "id": "94f6225d-8adc-400d-a414-d44aaf2714d1",
+                "resourcePath": "rooms\\r_world\\r_world.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a55c8f22-929e-4f80-8c5f-00d77878c779",
             "Value": {
                 "id": "b09c5bb7-ae07-46a7-b494-b13e7d732dbb",
@@ -564,6 +612,14 @@
                 "id": "d1b4fa3c-ae11-475f-86db-01382333aeab",
                 "resourcePath": "views\\b6685904-9056-4dcf-92b9-9397e5b95d32.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b803a181-dc6f-4bae-a0eb-20467ef50db0",
+            "Value": {
+                "id": "9a2ea5ed-27a2-4e37-8bef-570aad422447",
+                "resourcePath": "objects\\o_start_position\\o_start_position.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -748,6 +804,14 @@
                 "id": "af00971e-29dd-4557-8693-e2a6ac69c5d0",
                 "resourcePath": "sprites\\s_dirtwall_tileset\\s_dirtwall_tileset.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb5e7c4e-a490-4908-880f-b971fedfb3ce",
+            "Value": {
+                "id": "85ccdd41-8108-406d-8517-a0ca92308106",
+                "resourcePath": "views\\fb5e7c4e-a490-4908-880f-b971fedfb3ce.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

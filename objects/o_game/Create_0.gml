@@ -9,6 +9,8 @@ global.player_gems = 0;
 
 global.one_second = game_get_speed(gamespeed_fps);
 
+global.player_start_position = noone;
+
 //audio_play_sound(a_music, 10, true);
 
 instance_create_layer(0, 0, "Instances", o_input);
