@@ -1,14 +1,8 @@
-//@arg sprite
-//@arg x_position
-//@arg y_position
-//@arg image_speed
-//@arg has_depth
-
-//@para sprite
-//@para x_position
-//@para y_position
-//@para image_speed
-//@para has_depth
+///@arg sprite
+///@arg x_position
+///@arg y_position
+///@arg image_speed
+///@arg has_depth
 
 var _sprite = argument0;
 var _x = argument1;
