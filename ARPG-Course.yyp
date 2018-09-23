@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "826aa41e-d03a-495b-8810-82a01212dff4",
+            "Value": {
+                "id": "9f29c6db-db1a-4602-afcc-fbb950f57a0e",
+                "resourcePath": "sprites\\s_grass_effect\\s_grass_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8645a90e-2496-43ec-8636-e8e1dd55ace3",
             "Value": {
                 "id": "c0536806-a810-489d-8692-6953cfa1cbcd",
@@ -503,6 +511,14 @@
             }
         },
         {
+            "Key": "bb04164c-8bac-48d8-93df-c02522cea6e6",
+            "Value": {
+                "id": "8649a42e-e108-49a7-981b-31c32a3fdd49",
+                "resourcePath": "views\\bb04164c-8bac-48d8-93df-c02522cea6e6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c4c44fde-bbdb-4ba9-9307-982359bce590",
             "Value": {
                 "id": "2cd6490e-904a-4802-8f47-824403de2a93",
@@ -612,6 +628,14 @@
                 "id": "d64ef289-856a-4314-bf95-16d7885f21e2",
                 "resourcePath": "sprites\\s_grass_background\\s_grass_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f5736bee-fea9-48df-bcf6-31320deb6333",
+            "Value": {
+                "id": "422e7ffb-6367-4f49-9d72-b4d45ee7ff53",
+                "resourcePath": "views\\f5736bee-fea9-48df-bcf6-31320deb6333.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
