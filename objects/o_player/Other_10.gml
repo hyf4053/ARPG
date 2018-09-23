@@ -1,13 +1,13 @@
 /// @description Move State
 //Step 类似 Unity中的 Update 每一帧都会执行的内容
 image_speed = 0;
-var _x_input = keyboard_check(vk_right) - keyboard_check(vk_left);
-var _y_input = keyboard_check(vk_down) - keyboard_check(vk_up);
-_x_input_line = keyboard_check(vk_right) - keyboard_check(vk_left);
-_y_input_line = keyboard_check(vk_down) - keyboard_check(vk_up);
+var _x_input = o_input.right_ - o_input.left_;
+var _y_input = o_input.down_ - o_input.up_;
+_x_input_line = o_input.right_ - o_input.left_;
+_y_input_line = o_input.down_ - o_input.up_;
 var _input_direction = point_direction(0,0,_x_input,_y_input);
-var _attack_input = keyboard_check_pressed(ord("X"));
-var _evade_input = keyboard_check_pressed(ord("Z"));
+var _attack_input = o_input.action_one_pressed_;
+var _evade_input = o_input.action_two_pressed_;
 rool_direction_ = direction_facing_*90;
 
 if _x_input == 0 && _y_input == 0 {

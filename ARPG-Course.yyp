@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "c74b0ceb-aa8d-48fd-b756-532fdfdcce6e",
+            "Value": {
+                "id": "8aefe515-8032-4906-b5ef-ba67fb9b9e74",
+                "resourcePath": "objects\\o_input\\o_input.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c97b8f94-69a3-41f8-afef-e76870856a6e",
             "Value": {
                 "id": "ba834ad4-b395-44bc-82d4-5ba70a580174",
