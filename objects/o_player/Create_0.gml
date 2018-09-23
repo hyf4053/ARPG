@@ -1,5 +1,6 @@
 //Create 类似 Unity中的 Start或者Awake 只在对象被创建时调用一次
 initialize_movement_entity(.5, 1, o_solid);
+initialize_hurtbox_entity();
 //这个变量是对象内建的精灵动画速度，初始为0则表示无动画
 image_speed = 0;
 acceleration_ = 0.5;
