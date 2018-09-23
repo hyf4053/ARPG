@@ -4,6 +4,12 @@
 //@arg image_speed
 //@arg has_depth
 
+//@para sprite
+//@para x_position
+//@para y_position
+//@para image_speed
+//@para has_depth
+
 var _sprite = argument0;
 var _x = argument1;
 var _y = argument2;
