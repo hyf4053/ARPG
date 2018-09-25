@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "2edd99ee-ef6d-47ea-b43a-f5c0f73b36ba",
+            "Value": {
+                "id": "bfaaf8b1-0841-4170-b13d-b94b864ef3a6",
+                "resourcePath": "sounds\\a_menu_move\\a_menu_move.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2fa4557c-dcf9-4d05-87de-55fa1f943181",
             "Value": {
                 "id": "fb725d77-96e8-4b25-866f-492ddc70d59f",
@@ -364,6 +372,14 @@
                 "id": "8289d59c-bf6f-46d3-afaa-a0f53ad21bc2",
                 "resourcePath": "rooms\\r_sword\\r_sword.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4e88006b-e28e-406d-8f50-4cfdae5524e2",
+            "Value": {
+                "id": "6f3ae4c9-8695-4fa2-8884-8d3c5d2d78f9",
+                "resourcePath": "sounds\\a_menu_select\\a_menu_select.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -639,6 +655,14 @@
             }
         },
         {
+            "Key": "8e7149a6-ae4d-4342-9961-4b49e3d87fd1",
+            "Value": {
+                "id": "c1ef30de-81e1-4362-b8d2-863ab62b3550",
+                "resourcePath": "sprites\\s_pause_cursor\\s_pause_cursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8faf1c16-d49c-4b69-ac9a-07a502e1eda2",
             "Value": {
                 "id": "4c8c1a67-f973-4174-b6b6-a23d13e5e81a",
@@ -756,6 +780,14 @@
                 "id": "9a455c84-9c88-4efe-ad05-8a584defb569",
                 "resourcePath": "sprites\\s_grass\\s_grass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a69d5acf-bd00-45cd-a34b-2a324653bde8",
+            "Value": {
+                "id": "fd88b065-18d3-4a51-9e31-3a357818ad98",
+                "resourcePath": "scripts\\inventory_use_item\\inventory_use_item.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1141,7 +1173,8 @@
         "3a70a2ad-e741-4b11-a59b-e038bb7cbb66",
         "a03e2e12-8d14-4ba2-a832-1238f99a0d2a",
         "5fb12f93-d4f2-49bd-bce9-3190eb6acc46",
-        "2fa4557c-dcf9-4d05-87de-55fa1f943181"
+        "2fa4557c-dcf9-4d05-87de-55fa1f943181",
+        "a69d5acf-bd00-45cd-a34b-2a324653bde8"
     ],
     "tutorial": ""
 }

@@ -24,6 +24,11 @@ if _x_input == 0 && _y_input == 0 {
 	roll_direction_ = direction_facing_*90;
 }
 
+inventory_use_item(o_input.action_one_pressed_,global.item[0]);
+inventory_use_item(o_input.action_two_pressed_,global.item[1]);
+
+move_movement_entity(false);
+/*
 if _attack_input == true {
 	image_index	= 0;
 	state_ = player.sword;
@@ -33,8 +38,8 @@ if _evade_input == true {
 	image_index = 0;
 	state_ = player.evade;
 }
+*/
 
-move_movement_entity(false);
 
 
 /*人物基础控制，和最简单的碰撞检测*/
