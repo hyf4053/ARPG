@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "10c070fa-576f-48fd-9225-37967506c0de",
+            "Value": {
+                "id": "13154df1-b9e8-4ed4-a687-e1305238a244",
+                "resourcePath": "views\\10c070fa-576f-48fd-9225-37967506c0de.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "11f0e2f5-3f06-40be-a4b8-c7394bf01b9b",
             "Value": {
                 "id": "52450d02-112e-418b-9b28-05f7571e6b69",
@@ -108,6 +116,14 @@
                 "id": "8b72b42b-a80a-4a03-9ed9-9abd949d36c1",
                 "resourcePath": "sprites\\s_player_attack_down\\s_player_attack_down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "136eb4e6-fa70-4644-8aed-bb554f0ecc64",
+            "Value": {
+                "id": "dac8f4df-49b8-463a-9095-8d0b046ca067",
+                "resourcePath": "scripts\\array_find_index\\array_find_index.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -383,6 +399,14 @@
             }
         },
         {
+            "Key": "5fb12f93-d4f2-49bd-bce9-3190eb6acc46",
+            "Value": {
+                "id": "6bb3b0cd-3ccd-4332-ac9c-233328e6e1c4",
+                "resourcePath": "scripts\\inventory_add_item\\inventory_add_item.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "61364f44-543e-41c0-8876-677d10240d80",
             "Value": {
                 "id": "0720fd61-d4c6-4448-9255-e816e743474f",
@@ -612,6 +636,14 @@
                 "id": "4a448971-3053-4490-a265-6f6e21d58b1f",
                 "resourcePath": "views\\9f04e40c-5306-478c-9392-f2edf9fc0c77.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a03e2e12-8d14-4ba2-a832-1238f99a0d2a",
+            "Value": {
+                "id": "1255babc-8229-464b-80e7-5116cea2854d",
+                "resourcePath": "scripts\\inventory_create\\inventory_create.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1016,7 +1048,10 @@
         "9ccfcecb-8aff-4c35-899b-7d78816156ee",
         "8caaef77-2fa2-4216-98b5-3f580446f1bb",
         "e87297c5-e09e-4fc3-852f-666be442740f",
-        "c2c3d4c1-0e6b-4a05-9c62-ef4f365fa156"
+        "c2c3d4c1-0e6b-4a05-9c62-ef4f365fa156",
+        "136eb4e6-fa70-4644-8aed-bb554f0ecc64",
+        "a03e2e12-8d14-4ba2-a832-1238f99a0d2a",
+        "5fb12f93-d4f2-49bd-bce9-3190eb6acc46"
     ],
     "tutorial": ""
 }
