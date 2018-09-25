@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "2fa4557c-dcf9-4d05-87de-55fa1f943181",
+            "Value": {
+                "id": "fb725d77-96e8-4b25-866f-492ddc70d59f",
+                "resourcePath": "scripts\\inventory_draw\\inventory_draw.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "301ee9fc-1a59-4c9b-8e54-2fd7abb5b029",
             "Value": {
                 "id": "9f0eaf96-eeee-43ef-a9de-eea6345cb0d4",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "475883ff-c190-4186-94fd-eb274b586fe6",
+            "Value": {
+                "id": "a911c6c7-2178-43b6-a23a-09c07002417f",
+                "resourcePath": "sprites\\s_inventory_box\\s_inventory_box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a30da1a-8adc-46f5-8816-633ba7a18b8a",
             "Value": {
                 "id": "ed2b680c-4181-4c62-b940-c162453dc810",
@@ -332,6 +348,14 @@
                 "id": "65dd472d-30c5-4a07-984d-b09a029870e8",
                 "resourcePath": "sprites\\s_porcupine_attack\\s_porcupine_attack.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4e2d5c9c-7a88-4964-b119-b9ebc5e92703",
+            "Value": {
+                "id": "3b7bc4f4-7568-4d18-b0a5-082b87c54c4e",
+                "resourcePath": "objects\\o_sword_item\\o_sword_item.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -551,6 +575,14 @@
             }
         },
         {
+            "Key": "7a4f4949-a35e-449f-9edf-232df4d16551",
+            "Value": {
+                "id": "c3aff172-873c-4edd-808d-70de547c6242",
+                "resourcePath": "sprites\\s_sword_item\\s_sword_item.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7dc0f694-a833-4abe-aba8-a6e5e501826e",
             "Value": {
                 "id": "4f2fa8ea-b8f4-43cb-93a1-831078876d02",
@@ -603,6 +635,14 @@
             "Value": {
                 "id": "3feb085c-4350-4c78-a874-ce5a8cb35b62",
                 "resourcePath": "sprites\\s_gem_shine\\s_gem_shine.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8faf1c16-d49c-4b69-ac9a-07a502e1eda2",
+            "Value": {
+                "id": "4c8c1a67-f973-4174-b6b6-a23d13e5e81a",
+                "resourcePath": "sprites\\s_bomb_item\\s_bomb_item.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -863,6 +903,14 @@
             }
         },
         {
+            "Key": "cc052331-8856-4d5d-b757-4705336eeafb",
+            "Value": {
+                "id": "dbadf393-2865-4045-8c3e-6eb75da9ee81",
+                "resourcePath": "objects\\o_bomb_item\\o_bomb_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "af1f0622-d5be-4b5c-a982-f18531964773",
@@ -1092,7 +1140,8 @@
         "136eb4e6-fa70-4644-8aed-bb554f0ecc64",
         "3a70a2ad-e741-4b11-a59b-e038bb7cbb66",
         "a03e2e12-8d14-4ba2-a832-1238f99a0d2a",
-        "5fb12f93-d4f2-49bd-bce9-3190eb6acc46"
+        "5fb12f93-d4f2-49bd-bce9-3190eb6acc46",
+        "2fa4557c-dcf9-4d05-87de-55fa1f943181"
     ],
     "tutorial": ""
 }
