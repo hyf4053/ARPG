@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "199cd93b-28b9-49fc-9694-944d2b09c8fd",
+            "Value": {
+                "id": "d3ca2cc3-ea4d-48e4-a4ea-9d4549465c9f",
+                "resourcePath": "views\\199cd93b-28b9-49fc-9694-944d2b09c8fd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1d626c36-ae4b-4165-b125-1ec007bf0b26",
             "Value": {
                 "id": "2c6ad741-087b-4a60-b98d-b9d1c2328348",
@@ -295,6 +303,14 @@
             }
         },
         {
+            "Key": "3a70a2ad-e741-4b11-a59b-e038bb7cbb66",
+            "Value": {
+                "id": "3dc4f1d0-bf68-49af-85e2-cc5e8bc127f6",
+                "resourcePath": "scripts\\singleton\\singleton.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4110505e-10af-4ea9-886f-115ef7e9117b",
             "Value": {
                 "id": "9c0feb2c-1fa8-4d15-b547-a4203ddc4752",
@@ -412,6 +428,14 @@
                 "id": "0720fd61-d4c6-4448-9255-e816e743474f",
                 "resourcePath": "scripts\\porcupine_attack\\porcupine_attack.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "64647428-0251-40bb-b032-0f67e5c39372",
+            "Value": {
+                "id": "5530615a-dfef-41ab-94ce-048c64f07ccd",
+                "resourcePath": "objects\\o_inventory_item\\o_inventory_item.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1023,6 +1047,22 @@
             }
         },
         {
+            "Key": "fd1f4737-8bb1-4719-bfd1-5b18453c4288",
+            "Value": {
+                "id": "91e1bf5b-480b-4758-afeb-6826f57b4f5a",
+                "resourcePath": "objects\\o_ring_item\\o_ring_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ff69ac3d-7a07-4124-a417-6b6bce84c9bd",
+            "Value": {
+                "id": "e93d3cd2-6108-4d2d-bac4-3b3350f77ded",
+                "resourcePath": "sprites\\s_ring_of_evasion\\s_ring_of_evasion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ffd42524-c023-4342-bc5b-5f7115071a05",
             "Value": {
                 "id": "966196e1-3665-46b5-b988-6211c123d9de",
@@ -1050,6 +1090,7 @@
         "e87297c5-e09e-4fc3-852f-666be442740f",
         "c2c3d4c1-0e6b-4a05-9c62-ef4f365fa156",
         "136eb4e6-fa70-4644-8aed-bb554f0ecc64",
+        "3a70a2ad-e741-4b11-a59b-e038bb7cbb66",
         "a03e2e12-8d14-4ba2-a832-1238f99a0d2a",
         "5fb12f93-d4f2-49bd-bce9-3190eb6acc46"
     ],
